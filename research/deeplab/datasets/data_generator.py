@@ -87,7 +87,7 @@ _PASCAL_VOC_SEG_INFORMATION = DatasetDescriptor(
         'val': 800,
     },
     num_classes=2,
-    ignore_label=255,
+    ignore_label=150,
 )
 
 _ADE20K_INFORMATION = DatasetDescriptor(
